@@ -1,2 +1,2 @@
 # Nannan
-It is specifically for nanny
+It is specifically for nannan
